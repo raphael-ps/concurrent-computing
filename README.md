@@ -1,1 +1,1 @@
-# Programa-oConcorrente
+# Atividades Da Disciplina De Programação Concorrente
